@@ -4,5 +4,5 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | class # | Link           |
 |:-------:|:--------------:|
 | class 1 |[Python Beginners obstacles, Big O, Mutable Vs Immutable Data Types ](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class1.md)|
-| class 2 ||
+| class 2 |[Python Modules and Packages, Pytest, Recursion](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class2.md)|
 | class 3 ||
