@@ -3,6 +3,6 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 ## Advanced Software Development
 | class # | Link           |
 |:-------:|:--------------:|
-| class 1 |[Link](Link URL)|
-| class 2 |[Link](Link URL)|
-| class 3 |[Link](Link URL)|
+| class 1 |[Python Beginners obstacles, Big O, Mutable Vs Immutable Data Types ](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class1.md)|
+| class 2 ||
+| class 3 ||
