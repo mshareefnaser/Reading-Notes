@@ -112,7 +112,7 @@ CREATE TABLE IF NOT EXISTS mytable (
 );
 ```
 <br>
-<br>
+
 ## Table data types
 
 | Data type                | Description                                                                                                                                      |
@@ -123,7 +123,7 @@ CREATE TABLE IF NOT EXISTS mytable (
 | `DATE`, `DATETIME` | SQL can also store date and time stamps to keep track of time series and event data. They can be tricky to work with especially when manipulating data across timezones. |
 | `BLOB` | Finally, SQL can store binary data in blobs right in the database. These values are often opaque to the database, so you usually have to store them with the right metadata to requery them. |
 <br>
-<br>
+
 ## Table constraints
 
 | Constraint         | Description                                                                                                                                                   |
@@ -134,7 +134,3 @@ CREATE TABLE IF NOT EXISTS mytable (
 | `NOT NULL`         | This means that the inserted value cannot be `NULL`.                                                                                                          |
 | `CHECK (expression)` | This allows you to run a more complex expression to test whether the values inserted are valid. For example, you can check that values are positive, or greater than a specific size, or start with a certain prefix, etc. |
 | `FOREIGN KEY`      | This is a consistency check which ensures that each value in this column corresponds to another value in a column in another table. For example, if there are two tables, one listing all Employees by ID, and another listing their payroll information, the `FOREIGN KEY` can ensure that every row in the payroll table corresponds to a valid employee in the master Employee list. | 
-
-- Here is a screeshot of my progress :
-<br>
-![last quiz](../images/last.png)
