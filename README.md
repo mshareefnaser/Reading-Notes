@@ -3,7 +3,7 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 ## Advanced Software Development
 | Class # | Link |
 |:-------:|:----:|
-| Prep |[SQL intro ](https://github.com/mshnas9/Reading-Notes/blob/main/src/SQL_Intro .md)|
+| Prep |[SQL intro](https://github.com/mshnas9/Reading-Notes/blob/main/src/SQL_Intro.md)|
 | Class 1 |[Python Beginners obstacles, Big O, Mutable Vs Immutable Data Types ](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class1.md)|
 | Class 2 |[Python Modules and Packages, Pytest, Recursion](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class2.md)|
 | Class 3 |[Readings: FileIO & Exceptions](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class3.md)|
