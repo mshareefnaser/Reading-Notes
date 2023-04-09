@@ -112,7 +112,7 @@ CREATE TABLE IF NOT EXISTS mytable (
 );
 ```
 <br>
-<br>
+
 ## Table data types
 
 | Data type                | Description                                                                                                                                      |
@@ -123,7 +123,7 @@ CREATE TABLE IF NOT EXISTS mytable (
 | `DATE`, `DATETIME` | SQL can also store date and time stamps to keep track of time series and event data. They can be tricky to work with especially when manipulating data across timezones. |
 | `BLOB` | Finally, SQL can store binary data in blobs right in the database. These values are often opaque to the database, so you usually have to store them with the right metadata to requery them. |
 <br>
-<br>
+
 ## Table constraints
 
 | Constraint         | Description                                                                                                                                                   |
