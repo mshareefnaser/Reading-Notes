@@ -1,0 +1,12 @@
+# What’s the one thing I bring to this career (and a potential employer) that nobody else can?
+One thing that sets me apart from others in my career as a full-stack developer is my unique combination of technical skills, creative problem-solving abilities, and passion for staying up-to-date with the latest industry trends. With a background in software engineering and hands-on experience in essential tools and frameworks such as Python, Django, Node, and React, I am well-equipped to handle complex software development projects. However, I also bring a creative and innovative approach to problem-solving, which allows me to think outside the box and come up with unique solutions to challenging problems. Additionally, I am always eager to learn and stay up-to-date with the latest technologies, which ensures that I am always bringing fresh ideas and approaches to my work. These qualities make me a valuable asset to any potential employer looking for a talented and versatile full-stack developer.
+# What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
+- Break it down into smaller pieces: Whenever I encounter a challenging piece of code, logic, or feature, I find it helpful to break it down into smaller, more manageable pieces. By breaking it down, I can focus on one specific aspect of the problem at a time and prevent myself from feeling overwhelmed. This approach helps me to identify the specific area where I'm stuck, which makes it easier to find a solution.
+
+- Collaborate with peers: When I get stuck, I find it helpful to collaborate with my peers to gain a fresh perspective on the problem. By discussing the problem with others, I often gain new insights that I wouldn't have considered otherwise. Additionally, working with others helps me to stay motivated and accountable, which can be especially helpful when tackling challenging problems.
+
+- Utilize online resources: There are countless online resources available for developers, ranging from blogs and forums to video tutorials and documentation. Whenever I get stuck on a tough piece of code or feature, I make sure to take advantage of these resources to gain new insights and find potential solutions. I also make an effort to engage with online communities to ask questions and seek guidance from experienced developers. By utilizing these resources, I am able to learn new skills and gain a deeper understanding of complex topics, which helps me to "un-stick" myself whenever I encounter a challenging problem.
+
+
+
+
