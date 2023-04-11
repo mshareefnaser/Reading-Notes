@@ -5,7 +5,7 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 |:-------:|:----:|
 | Prep |[SQL intro](https://github.com/mshnas9/Reading-Notes/blob/main/src/SQL_Intro.md)|
 | Prep |[The Growth Mindset](https://github.com/mshnas9/Reading-Notes/blob/main/src/The%20Growth%20Mindset.md)|
-| Prep |[Engineering](https://github.com/mshnas9/Reading-Notes/blob/main/src/engineering.md)|
+| Prep |[Engineering](https://github.com/mshnas9/Reading-Notes/blob/main/src/Engineering.md)|
 | Prep |[Data Structures and Algorithms](https://github.com/mshnas9/Reading-Notes/blob/main/src/dsa.md)|
 | Prep |[SQL intro](https://github.com/mshnas9/Reading-Notes/blob/main/src/SQL_Intro.md)|
 | Prep |[CLI](https://github.com/mshnas9/Reading-Notes/blob/main/src/cli.md)|
