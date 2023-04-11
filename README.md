@@ -11,5 +11,6 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Prep |[CLI](https://github.com/mshnas9/Reading-Notes/blob/main/src/cli.md)|
 | Class 1 |[Python Beginners obstacles, Big O, Mutable Vs Immutable Data Types ](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class1.md)|
 | Class 2 |[Python Modules and Packages, Pytest, Recursion](https://github.com/mshnas9/Reading-Notes/blob/main/src/Class2.md)|
-| Class 3 |[Readings: FileIO & Exceptions](https://github.com/mshnas9/Reading-Notes/blob/main/src/Engineering.md)|
- 
+| Class 3 |[Readings: FileIO & Exceptions](https://github.com/mshnas9/Reading-Notes/blob/main/src/class3.md)|
+| Class 4 |[Classes and Objects in Python, Recursion, Pytest Fixtures](https://github.com/mshnas9/Reading-Notes/blob/main/src/class4.md)|
+
