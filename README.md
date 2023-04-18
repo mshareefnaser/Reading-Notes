@@ -14,5 +14,6 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 3 |[Readings: FileIO & Exceptions](https://github.com/mshnas9/Reading-Notes/blob/main/src/class3.md)|
 | Class 4 |[Classes and Objects in Python, Recursion, Pytest Fixtures](https://github.com/mshnas9/Reading-Notes/blob/main/src/class4.md)|
 | Class 6 |[Random Module, Risk Analysis, Test Coverage](https://github.com/mshnas9/Reading-Notes/blob/main/src/class6.md)|
+| Class 7 |[Big O, Variable Scope in Python,  Global and Nonlocal Keywords](https://github.com/mshnas9/Reading-Notes/blob/main/src/class7.md)|
 
 
