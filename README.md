@@ -17,6 +17,10 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 7 |[Big O, Variable Scope in Python,  Global and Nonlocal Keywords](https://github.com/mshnas9/Reading-Notes/blob/main/src/class7.md)|
 | Class 8 |[List Comprehensions in Python, Decorators in Python](https://github.com/mshnas9/Reading-Notes/blob/main/src/class8.md)|
 | Class 11 |[JupyterLab and numpy](https://github.com/mshnas9/Reading-Notes/blob/main/src/class11.md)|
+| Class 12 |[JupyterLab and numpy](https://github.com/mshnas9/Reading-Notes/blob/main/src/class12.md)|
+| Class 13 |[JupyterLab and numpy](https://github.com/mshnas9/Reading-Notes/blob/main/src/class13.md)|
+
+
 
 
 
