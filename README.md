@@ -21,6 +21,8 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 13 |[JupyterLab and numpy](https://github.com/mshnas9/Reading-Notes/blob/main/src/class13.md)|
 | Class 14 |[Data Visualization](https://github.com/mshnas9/Reading-Notes/blob/main/src/class14.md)|
 | Class 15 |[Trees](https://github.com/mshnas9/Reading-Notes/blob/main/src/class15.md)|
+| Class 16 |[Serverless Computing](https://github.com/mshnas9/Reading-Notes/blob/main/src/class16.md)|
+
 
 
 
