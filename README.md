@@ -23,6 +23,8 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 15 |[Trees](https://github.com/mshnas9/Reading-Notes/blob/main/src/class15.md)|
 | Class 16 |[Serverless Computing](https://github.com/mshnas9/Reading-Notes/blob/main/src/class16.md)|
 | Class 17 |[Web Scraping](https://github.com/mshnas9/Reading-Notes/blob/main/src/class17.md)|
+| Class 26 |[Intro to Django](https://github.com/mshnas9/Reading-Notes/blob/main/src/class26.md)|
+
 
 
 
