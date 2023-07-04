@@ -25,6 +25,8 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 17 |[Web Scraping](https://github.com/mshnas9/Reading-Notes/blob/main/src/class17.md)|
 | Class 26 |[Intro to Django](https://github.com/mshnas9/Reading-Notes/blob/main/src/class26.md)|
 | Class 31 |[Django REST Framework & Docker](https://github.com/mshnas9/Reading-Notes/blob/main/src/class26.md)|
+| Class 32 |[Permissions & Postgresql](https://github.com/mshnas9/Reading-Notes/blob/main/src/class26.md)|
+
 
 
 
