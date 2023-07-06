@@ -24,8 +24,10 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 16 |[Serverless Computing](https://github.com/mshnas9/Reading-Notes/blob/main/src/class16.md)|
 | Class 17 |[Web Scraping](https://github.com/mshnas9/Reading-Notes/blob/main/src/class17.md)|
 | Class 26 |[Intro to Django](https://github.com/mshnas9/Reading-Notes/blob/main/src/class26.md)|
-| Class 31 |[Django REST Framework & Docker](https://github.com/mshnas9/Reading-Notes/blob/main/src/class26.md)|
-| Class 32 |[Permissions & Postgresql](https://github.com/mshnas9/Reading-Notes/blob/main/src/class26.md)|
+| Class 31 |[Django REST Framework & Docker](https://github.com/mshnas9/Reading-Notes/blob/main/src/class31.md)|
+| Class 32 |[Permissions & Postgresql](https://github.com/mshnas9/Reading-Notes/blob/main/src/class32.md)|
+| Class 33 |[Authentication & Production Server](https://github.com/mshnas9/Reading-Notes/blob/main/src/class33.md)|
+
 
 
 
