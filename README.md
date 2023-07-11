@@ -27,6 +27,8 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 31 |[Django REST Framework & Docker](https://github.com/mshnas9/Reading-Notes/blob/main/src/class31.md)|
 | Class 32 |[Permissions & Postgresql](https://github.com/mshnas9/Reading-Notes/blob/main/src/class32.md)|
 | Class 33 |[Authentication & Production Server](https://github.com/mshnas9/Reading-Notes/blob/main/src/class33.md)|
+| Class 34 |[API Deployment](https://github.com/mshnas9/Reading-Notes/blob/main/src/class33.md)|
+
 
 
 
