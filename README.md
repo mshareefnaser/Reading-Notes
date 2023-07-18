@@ -28,7 +28,12 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 32 |[Permissions & Postgresql](https://github.com/mshnas9/Reading-Notes/blob/main/src/class32.md)|
 | Class 33 |[Authentication & Production Server](https://github.com/mshnas9/Reading-Notes/blob/main/src/class33.md)|
 | Class 34 |[API Deployment](https://github.com/mshnas9/Reading-Notes/blob/main/src/class33.md)|
-| - |[Graphs](https://github.com/mshnas9/Reading-Notes/blob/main/src/graphs.md)|
+| Class 35 |[Graphs](https://github.com/mshnas9/Reading-Notes/blob/main/src/graphs.md)|
+| Class 36 |[DSA review](https://github.com/mshnas9/Reading-Notes/blob/main/src/graphs.md)|
+| Class 37 |[React, Next.js & TailwindCSS](https://github.com/mshnas9/Reading-Notes/blob/main/src/class37.md)|
+
+
+
 
 
 
