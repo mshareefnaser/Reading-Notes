@@ -32,6 +32,8 @@ Welcome to my personal readings repo 🐱‍👤 Here, I share my personal notes
 | Class 36 |[DSA review](https://github.com/mshnas9/Reading-Notes/blob/main/src/graphs.md)|
 | Class 37 |[React, Next.js & TailwindCSS](https://github.com/mshnas9/Reading-Notes/blob/main/src/class37.md)|
 | Class 38 |[React2](https://github.com/mshnas9/Reading-Notes/blob/main/src/class37.md)|
+| Class 39 |[React3](https://github.com/mshnas9/Reading-Notes/blob/main/src/class37.md)|
+
 
 
 
