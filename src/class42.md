@@ -1,0 +1,9 @@
+# Ethics
+## Ethics in the workplace
+[The code I’m still ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
+The article highlights the responsibility of developers in being aware of the potential impact of their code, especially as technology plays an ever-increasing role in various aspects of life, including healthcare. It serves as a reminder of the importance of ethical considerations in software development and how developers must be mindful of the potential consequences of their work. The author's experience led them to reevaluate their approach and prioritize ethics when writing code. They hope to encourage others in the industry to do the same, reminding developers that they can be a crucial line of defense against unethical practices and should strive to be ethically conscious in their work.
+
+
+## Ethics in Technology
+[Ethical dilemma of self driving cars](https://www.theglobeandmail.com/globe-drive/culture/technology/the-ethical-dilemmas-of-self-drivingcars/article37803470/)
+The rise of self-driving technology in vehicles has sparked a heated debate on the ethical challenges posed by these autonomous cars in unforeseen situations. While studies suggest that self-driving cars could significantly reduce accidents, questions arise about whom they should prioritize in unavoidable scenarios. Germany has proposed guidelines stating that self-driving cars should prioritize minimizing human death without discrimination based on factors like age or gender. However, a study reveals a double standard, as people tend to support a utilitarian approach in principle but prefer self-driving cars to protect passengers at all costs when they are in the vehicle. Experts highlight the importance of deliberation in machines versus human drivers and the need to address control and ethical concerns as self-driving technology advances.
